@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Statistics 306 for Winter 2021 (Lab XX)
+Instructor Name:  Ariel Polani
 
-You can use the [editor on GitHub](https://github.com/Ariel-Polani/stats306_w21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Instructor Email: &nbsp;[apolani@umich.edu](mailto:apolani@umich.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lab Meeting:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays 4:00 - 5:30 @ Insert Zoom Link Later
 
-### Markdown
+Office Hours: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TBD @ Insert Zoom Link Later
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Lab Schedule
 
-```markdown
-Syntax highlighted code block
+| Date | Lab | Solution | Recording |
+| ------------- | ------------- | ------------- | ------------- |
+| Fill | Lab 1: Introduction | Solution | Recording |
+| Fill | Lab 1: Introduction | Solution | Recording |
+| Fill | Lab 1: Introduction | Solution | Recording |
+| Fill | Lab 1: Introduction | Solution | Recording |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ariel-Polani/stats306_w21/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
