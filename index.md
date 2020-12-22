@@ -1,4 +1,3 @@
-# Statistics 306 for Winter 2021 (Lab XX)
 Instructor Name:  Ariel Polani
 
 Instructor Email: &nbsp;[apolani@umich.edu](mailto:apolani@umich.edu)
