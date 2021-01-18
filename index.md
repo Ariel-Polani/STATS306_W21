@@ -1,10 +1,10 @@
-Name:  Ariel Polani
+Name: Ariel Polani
 
-Email: &nbsp;[apolani@umich.edu](mailto:apolani@umich.edu)
+Email: [apolani@umich.edu](mailto:apolani@umich.edu)
 
-Lab Meeting:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mondays 4:00 - 5:30 @ [link](https://umich.zoom.us/j/91880717088?pwd=N2k1S0M2S3c1NkFyMVhYcGh2aTJzUT09)
+Lab Meeting: Mondays 4:00 - 5:30 @ [link](https://umich.zoom.us/j/91880717088?pwd=N2k1S0M2S3c1NkFyMVhYcGh2aTJzUT09)
 
-Office Hours: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TBD @ [link](https://umich.zoom.us/j/91880717088?pwd=N2k1S0M2S3c1NkFyMVhYcGh2aTJzUT09)
+Office Hours: TBD @ [link](https://umich.zoom.us/j/91880717088?pwd=N2k1S0M2S3c1NkFyMVhYcGh2aTJzUT09)
 
 Github Files @ [link](https://github.com/Ariel-Polani/STATS306_W21)
 
