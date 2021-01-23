@@ -10,10 +10,10 @@ Github @ [link](https://github.com/Ariel-Polani/STATS306_W21)
 
 ## Lab Schedule
 
-| Date | Lab | Solution | Recording |
-| ------------- | ------------- | ------------- | ------------- |
-| 1/25 | Lab 1: Introduction | Solution | Recording |
-| 2/1 | [Testing](https://downgit.github.io/#/home?url=https://github.com/Ariel-Polani/STATS306_W21/raw/main/stats306_lab01_bm.ipynb) | Solution | Recording |
+| Date | Lab | Solution | Recording | Slides |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1/25 | [Lab 1: Introduction](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab01_AP.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab01_AP_Solutions.ipynb) | Recording | [Slides](https://docs.google.com/presentation/d/1zQe1CdOWJ6loHgGw2t5jLzaEiOMrz4oOABc2uDtE2Yw/edit?usp=sharing)|
+| 2/1 | Lab 2 | Solution | Recording | Slides |
 
 
 
