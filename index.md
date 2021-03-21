@@ -17,7 +17,7 @@ Github @ [link](https://github.com/Ariel-Polani/STATS306_W21)
 | 2/8 | [Lab 3](https://github.com/Ariel-Polani/STATS306_W21/blob/main/lab3_no_solutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab3_solutions.ipynb) | [Ryan's Recording](https://umich.app.box.com/s/sj376okeyvvqbs4htjtp3i48dj3avnqv/file/774473876613) | Slides |
 | 2/15 | [Lab 4](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab%204%20No%20Solutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab%204%20Solutions.ipynb) | [Recording](https://drive.google.com/file/d/1WRiBexqQ4AhjYySzyTODd8sMWX-Qdnzq/view?usp=sharing) | Slides |
 | 2/28 | [Lab 5](https://github.com/Ariel-Polani/STATS306_W21/blob/main/306_lab5_no_solutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/306_lab5_solutions.ipynb) | Recording | Slides |
-| 3/15 | [Lab 6](https://colab.research.google.com/drive/1rRnBZJxIPWOQPnPY2qAcOXwnuHG2bZST?usp=sharing) | [Solution](https://colab.research.google.com/drive/1Y8nykWxwoly4HCRm1VGQwqKXA7K87y-K?usp=sharing) | Recording | Slides |
+| 3/15 | [Lab 6](https://colab.research.google.com/drive/1rRnBZJxIPWOQPnPY2qAcOXwnuHG2bZST?usp=sharing) | [Solution](https://colab.research.google.com/drive/1Y8nykWxwoly4HCRm1VGQwqKXA7K87y-K?usp=sharing) | [Recording](https://drive.google.com/file/d/1zS3mmiFzOsy2ncL7t4bpAL5LBBnXWgos/view?usp=sharing) | Slides |
 
 
 
