@@ -18,7 +18,7 @@ Github @ [link](https://github.com/Ariel-Polani/STATS306_W21)
 | 2/15 | [Lab 4](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab%204%20No%20Solutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab%204%20Solutions.ipynb) | [Recording](https://drive.google.com/file/d/1WRiBexqQ4AhjYySzyTODd8sMWX-Qdnzq/view?usp=sharing) | Slides |
 | 2/28 | [Lab 5](https://github.com/Ariel-Polani/STATS306_W21/blob/main/306_lab5_no_solutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/306_lab5_solutions.ipynb) | Recording | Slides |
 | 3/15 | [Lab 6](https://colab.research.google.com/drive/1rRnBZJxIPWOQPnPY2qAcOXwnuHG2bZST?usp=sharing) | [Solution](https://colab.research.google.com/drive/1Y8nykWxwoly4HCRm1VGQwqKXA7K87y-K?usp=sharing) | [Recording](https://drive.google.com/file/d/1zS3mmiFzOsy2ncL7t4bpAL5LBBnXWgos/view?usp=sharing) | Slides |
-| 3/22 | [Lab 7](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab7_NoSolutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab7_Solutions.ipynb) | Recording | Slides |
+| 3/22 | [Lab 7](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab7_NoSolutions.ipynb) | [Solution](https://github.com/Ariel-Polani/STATS306_W21/blob/main/Lab7_Solutions.ipynb) | [Recording](https://drive.google.com/file/d/1i0ph5L2pBvQkl7SBaJ-jdE-n_SCr97IY/view?usp=sharing) | Slides |
 
 
 
